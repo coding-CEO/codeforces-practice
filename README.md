@@ -1,3 +1,7 @@
+![](https://img.shields.io/github/forks/coding-CEO/codeforces-practice)
+![](https://img.shields.io/github/issues/coding-CEO/codeforces-practice)
+![](https://img.shields.io/github/stars/coding-CEO/codeforces-practice)
+
 # Codeforces Practice
 
 I Plan to Solve 5 Practice Questions on [Codeforces](https://codeforces.com/) Daily. This Repository Includes C++ Solutions of All the Questions That I will Solve.
