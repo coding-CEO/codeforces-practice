@@ -11,8 +11,8 @@ I Plan to Solve 5 Practice Questions on [Codeforces](https://codeforces.com/) Da
 ## What is Here for You ?
 
 1. Use GitHub Search Bar & Search a Question with Question ID and Checkout Its Solution. <br/>
-   ![Question ID 1](./Others/QID1.PNG) <br/>
-   ![Question ID 1](./Others/QID2.PNG)
+   ![Question ID 1](./Images/QID1.PNG) <br/>
+   ![Question ID 1](./Images/QID2.PNG)
 
 2. Every Solution is Categorised by Level (A, B, ...) and Also Have a Question Link. You Can Simply Go To the Question and Practice With Me.
 
